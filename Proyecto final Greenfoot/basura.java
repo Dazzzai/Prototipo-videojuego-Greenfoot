@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class basura extends Actor
 {
-    private int speed = 2; //velocidad a la que cae la basura 
+    private int speed = 1; //velocidad a la que cae la basura 
     public void act()
     {
         setLocation(getX(),getY()+speed); 

@@ -1,10 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Pantalla de juego terminado 
- * 
- * @author Madeline Nahomy Castro Morales 
- * @date 12/08/2022
+ * pantalla cuando termina el juego.  
+ * @author Madeline Castro 
+ * @date 14/08/2022
  */
 public class gameover extends Actor
 {
@@ -14,6 +13,6 @@ public class gameover extends Actor
      */
     public void act()
     {
-        //aun no se han creado acciones 
+        //mensaje de gameover
     }
 }

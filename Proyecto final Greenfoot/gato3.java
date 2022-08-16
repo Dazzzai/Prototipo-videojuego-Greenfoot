@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class gato3 extends Actor
 {
-    private int speed = 2; //velocidad del gato 
+    private int speed = 1; //velocidad del gato 
     public void act()
     {
         setLocation(getX(),getY()+speed);

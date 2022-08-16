@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class bonus extends Actor
 {
-    int speed = 2; 
+    int speed = 1; 
     public void act()
     {
         setLocation(getX(),getY()+ speed);
