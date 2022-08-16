@@ -14,4 +14,4 @@ Elementos dentro del videojuego:
   Tienes en total 3 vidas, cuando toques una  "basura" o un "pescado" perderás una. 
   Los gatos te proveen 1 punto al contador de "gatos recogidos". 
 
-Este es un prototipo del videojuego, por lo tanto, NO es la versión final, aún falta agregar algunas opciones. 
+Esta es la versión final del videojuego. 
