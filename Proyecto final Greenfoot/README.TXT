@@ -13,5 +13,6 @@ El videojuego consiste en atrapar la cantidad de gatos posibles. Cuando se alcan
 Elementos dentro del videojuego: 
   Tienes en total 3 vidas, cuando toques una  "basura" o un "pescado" perderás una. 
   Los gatos te proveen 1 punto al contador de "gatos recogidos". 
+  IMPORTANTE: El personaje se mueve con las teclas A (izquierda) y D (derecha) 
 
 Esta es la versión final del videojuego. 
