@@ -1,12 +1,17 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Prototipo Videojuego en Greenfoot 
+Programación Orientado a Objetos 
+Sección 20 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+NOMBRE DE VIDEOJUEGO: CATCATCH 
+PURPOSE OF PROJECT: Entrega 2 proyecto de clase 
+VERSION or DATE: 13/08/2022 
+AUTHORS: Madeline Nahomy Castro Morales 
+USER INSTRUCTIONS: 
+El videojuego consiste en atrapar la cantidad de gatos posibles. Cuando se alcance el objetivo ganarás, si tu contador llega a cero, perderás automáticamente. 
+Elementos dentro del videojuego: 
+  Tienes en total 3 vidas, cuando toques una  "basura" o un "pescado" perderás una. 
+  Los gatos te proveen 1 punto al contador de "gatos recogidos". 
+
+Este es un prototipo del videojuego, por lo tanto, NO es la versión final, aún falta agregar algunas opciones. 
